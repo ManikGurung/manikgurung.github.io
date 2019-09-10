@@ -1,0 +1,10 @@
+{ "success": false,
+  "message": "data retrieved",
+  "data":
+  [
+    { "Name":"Manik Gurung",
+      "Password": "abcdefg"
+
+    }
+  ]
+}
