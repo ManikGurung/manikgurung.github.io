@@ -1,0 +1,13 @@
+{ "success": true,
+  "message": null,
+  "data":
+  [
+    { "Slot1":true,
+      "Slot2": true,
+      "Slot3": true,
+      "Slot4": false,
+      "Slot5": true,
+      "Slot6": true
+    }
+  ]
+}
