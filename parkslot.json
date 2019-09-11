@@ -2,7 +2,7 @@
   "message": null,
   "data":
 
-    { "Slot1":false,
+    { "Slot1":true,
       "Slot2": true,
       "Slot3": true,
       "Slot4": false,
